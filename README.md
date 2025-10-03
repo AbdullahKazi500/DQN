@@ -1,6 +1,5 @@
 # DQN
-source code for Optimized Dynamic Syndrome Measurement Scheduling
-# Quantum Reinforcement Learning with Cirq and Classical Agents
+## source code for Optimized Dynamic Syndrome Measurement Scheduling and Quantum Reinforcement Learning with Cirq and Classical Agents
 
 ## Project Overview
 
