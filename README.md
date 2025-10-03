@@ -1,5 +1,22 @@
 # DQN
 ## source code for Optimized Dynamic Syndrome Measurement Scheduling and Quantum Reinforcement Learning with Cirq and Classical Agents
+# Quantum RL Repository
+
+This repository contains experiments for **Quantum Reinforcement Learning (QRL)** using both **DQN** and **LSTD** agents applied to minimal quantum error correction (3-qubit repetition code).
+
+## Repository Structure
+
+- `DQNRL.ipynb`  
+  Notebook for **Dynamic Syndrome Measurement Scheduling** using a **DQN agent**.  
+  - Trains a Q-learning agent to choose stabilizer measurements efficiently  
+  - Uses Cirq for quantum simulation  
+  - Visualizes rewards, Q-values, and action distributions  
+
+- `QRLwithLSTD.ipynb`  
+  Notebook for **Linear Function Approximation RL** using **LSTD**.  
+  - Implements a linear TD agent for syndrome measurement selection  
+  - Evaluates logical qubit fidelity  
+  - Plots learned weights, logical fidelity, and measurement cost  
 
 ## Project Overview
 
